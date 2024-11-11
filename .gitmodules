@@ -1,0 +1,3 @@
+[submodule "exemplos_esp32"]
+	path = exemplos_esp32
+	url = https://github.com/EESC-Embarcados/exemplos_esp32.git
