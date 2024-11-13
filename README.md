@@ -1,6 +1,6 @@
-# ESP-32: Repositório para as Disciplinas SEL0433/SEL0614 e SEL033
+# ESP-32: Repositório para as Disciplinas SEL0433/SEL0614
 
-Este repositório está relacionado às disciplinas **SEL0433/SEL0614** e **SEL033**, com foco em sistemas embarcados e suas aplicações. O objetivo deste repositório é fornecer recursos e exemplos para apoiar o aprendizado e a resolução de problemas comuns encontrados nas práticas dessas disciplinas.
+Este repositório está relacionado às disciplinas **SEL0433/SEL0614**, com foco em sistemas embarcados e suas aplicações. O objetivo deste repositório é fornecer recursos e exemplos para apoiar o aprendizado e a resolução de problemas comuns encontrados nas práticas dessas disciplinas.
 
 ## Estrutura do Repositório
 
